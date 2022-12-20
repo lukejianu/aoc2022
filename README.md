@@ -1,1 +1,3 @@
 # aoc2022
+
+Learning C++...
